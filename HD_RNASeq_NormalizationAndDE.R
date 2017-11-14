@@ -4,7 +4,8 @@
 # Author and contact: Mikhail Osipovitch (mxo@sund.ku.dk)
 #
 # The following script performs RUVSeq-based normalization and differential expression analysis
-# of RNA-Seq data produced from HD- and control-derived human glial cells. The procedure
+# of RNA-Seq data produced from HD- and control-derived human glial cells. We recommend creating
+# a new R project in a separate folder. The output will then be save to that folder. The procedure
 # is accomplished in three steps:
 #
 # 1 - first-pass differential expression analysis for determination of in silico negative control
